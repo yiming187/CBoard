@@ -17,7 +17,7 @@
     <description/>
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-        <spring.version>4.3.7.RELEASE</spring.version>
+        <spring.version>4.3.18.RELEASE</spring.version>
         <spring-security.version>4.1.0.RELEASE</spring-security.version>
         <mybatis.version>3.1.1</mybatis.version>
         <mybatisspring.version>1.1.1</mybatisspring.version>
@@ -98,7 +98,7 @@
         <dependency>
             <groupId>org.springframework.data</groupId>
             <artifactId>spring-data-redis</artifactId>
-            <version>1.7.4.RELEASE</version>
+            <version>1.8.11.RELEASE</version>
         </dependency>
         <!-- cas -->
         <dependency>
@@ -171,7 +171,7 @@
         <dependency>
             <groupId>commons-fileupload</groupId>
             <artifactId>commons-fileupload</artifactId>
-            <version>1.3.1</version>
+            <version>1.3.3</version>
         </dependency>
         <dependency>
             <groupId>log4j</groupId>
